@@ -1,0 +1,168 @@
+#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
+#EXTINF:-1 tvg-id="DanceHits80.ru@SD" tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="🎵 Music",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 tvg-id="Totalmusic.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="🎵 Music",Totalmusic
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Totalmusic80s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="🎵 Music",Totalmusic 80s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="Totalmusic2000s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="🎵 Music",Totalmusic 2000s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="TotalmusicConcerts.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="🎵 Music",Totalmusic Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="TotalmusicDance.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_dance.png" group-title="🎵 Music",Totalmusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="RetroMusic.cz" tvg-name="Retro Music CZ" tvg-logo="https://raw.githubusercontent.com/Kyrie1965/ttv/master/logos/24-7%20Retro%20TV.png" tvg-country="CZ" tvg-url="https://github.com/radoslavv/epg/blob/master/guide.xml.gz" group-title="🎵 Music",Retro Music Tv
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="Kronehit.at@SD" tvg-name="" tvg-logo="https://m.media-amazon.com/images/I/51NpwMKMM8L.png" group-title="🎵 Music",Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="Ocko.cz" tvg-name="" tvg-logo="https://digital.rozhlas.cz/sites/default/files/images/00646076.gif" group-title="🎵 Music",Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="OckoExpres.cz" tvg-name="" tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-ocko-express.jpg?itok=RSv852PX" group-title="🎵 Music",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="HypeVisualRadio.nl@SD" tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png" group-title="🎵 Music",Hype Visual Radio
+https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
+#EXTINF:-1 tvg-id="4everMusic.ua" tvg-logo="https://lanet.tv/static/tv/logo/9217.svg" group-title="🎵 Music",Music 4Ever
+http://stream.mcquack.net/257/index.m3u8
+#EXTINF:-1 tvg-id="Pes.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/pes_llive.jpg" group-title="🎦Series",Пёс
+https://cdn-dvr.ntv.ru/Pes/index.m3u8
+#EXTINF:-1 tvg-id="Skorayapomoshch.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/skoraya_pom_llive.jpg" group-title="🎦Series",Скорая Помощ
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
+#EXTINF:-1 tvg-id="Shef.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/shef_llive.jpg" group-title="🎦Series",Шеф
+https://cdn-dvr.ntv.ru/Shef/index.m3u8
+#EXTINF:-1 tvg-id="Perviyotdel.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/perv_otdel_llive.jpg" group-title="🎦Series",Первый отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
+#EXTINF:-1 tvg-id="Nevskiy.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/nevski_llive.jpg" group-title="🎦Series",Невский
+https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
+#EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg" group-title="🎦Series",Смотрим Честный Детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000.ru@SD" tvg-logo="https://i.imgur.com/ZMsyjSr.png" group-title="🇷🇺 Russian",viju TV1000
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000action.ru@SD" tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="🇷🇺 Russian",viju TV1000 action
+http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusComedy.ru@HD" tvg-logo="https://i.imgur.com/YoNOFu7.png" group-title="🇷🇺 Russian",viju+ Comedy
+http://stream.mcquack.net/201/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru@HD" tvg-logo="https://i.imgur.com/oIQNddV.png" group-title="🇷🇺 Russian",viju+ Megahit
+http://stream.mcquack.net/200/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusPremiere.ru@HD" tvg-logo="https://i.imgur.com/klRvhR5.png" group-title="🇷🇺 Russian",viju+ Premiere
+http://stream.mcquack.net/202/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusSerial.ru@HD" tvg-logo="https://i.imgur.com/8yXZET5.png" group-title="🇷🇺 Russian",viju+ Serial
+http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1 tvg-id="scifi.ru@SD" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="🇷🇺 Russian",.sci-fi
+http://stream.mcquack.net/180/index.m3u8
+#EXTINF:-1 tvg-id="Nashemuzhskoe.ru@HD" tvg-logo="https://i.imgur.com/QRWKpmb.png" group-title="🇷🇺 Russian",Nashe muzhskoe HD
+http://stream.mcquack.net/362/index.m3u8
+#EXTINF:-1 tvg-id="AmediaHit.ru@SD" tvg-logo="https://i.imgur.com/a8ZBGBw.png" group-title="🇷🇺 Russian",Amedia Hit
+http://stream.mcquack.net/162/index.m3u8
+#EXTINF:-1 tvg-id="Kino1.ru" tvg-logo="https://i.imgur.com/zsCPLs4.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="🇷🇺 Russian",Kino 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/395/index.m3u8
+#EXTINF:-1 tvg-id="KinoHit.ru" tvg-logo="https://i.imgur.com/Ge8vkQM.png" group-title="🇷🇺 Russian",KinoHit
+http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1 tvg-id="Blokbaster.ru" tvg-logo="https://i.imgur.com/KcOi4Os.png" group-title="🇷🇺 Russian",Blokbaster
+http://stream.mcquack.net/364/index.m3u8
+#EXTINF:-1 tvg-id="Nashemuzhskoe.ru" tvg-logo="https://i.imgur.com/8RN3tQC.png" group-title="🇷🇺 Russian",Muzhskoe kino
+http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-logo="https://i.imgur.com/UUjehw9.png" group-title="🇷🇺 Russian",Premium
+http://stream.mcquack.net/151/index.m3u8
+#EXTINF:-1 tvg-id="DomkinoPremium.ru" tvg-logo="https://i.imgur.com/rJpQtvK.png" group-title="🇷🇺 Russian",Dom kino Premium
+http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="🇷🇺 Russian",National Geographic
+http://stream.mcquack.net/116/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="🇷🇺 Russian",National Geographic Wild
+http://stream.mcquack.net/149/index.m3u8
+#EXTINF:-1 tvg-id="vijuNature.ru@HD" tvg-logo="https://i.imgur.com/8BPZ18l.png" group-title="🇷🇺 Russian",viju Nature
+http://46.53.200.153:7777/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="vijuExplore.ru@SD" tvg-logo="https://i.imgur.com/EGIpLPu.png" group-title="🇷🇺 Russian",viju Explore
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1 tvg-id="vijuPlusPlanet.ru@HD" tvg-logo="https://i.imgur.com/9Weqdsk.png" group-title="🇷🇺 Russian",viju+ Planet
+http://stream.mcquack.net/240/index.m3u8
+#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/55846/2a000001869cc474cf6d9d8572e47b55bfdd/428x280" group-title="🇷🇺 Russian",Viju History HD
+http://stream.mcquack.net/101/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.ru" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/500px-2018_Animal_Planet_logo.svg.png" group-title="🇷🇺 Russian",Animal Planet
+http://stream.mcquack.net/114/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Entertainment",Discovery Channel (Russia) (1080p)
+http://stream.mcquack.net/177/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",Investigation Discovery (Russia) (1080p)
+http://stream.mcquack.net/205/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsRussian.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Russian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:-1 tvg-id="Priklyucheniya.ru" tvg-logo="https://i.imgur.com/qQ6pPPQ.png" group-title="🇷🇺 Russian",Приключения
+http://stream.mcquack.net/198/index.m3u8
+#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-logo="https://i.imgur.com/uIiAdBv.png" group-title="🇷🇺 Russian",Moya Planeta
+http://stream.mcquack.net/124/index.m3u8
+#EXTINF:-1 tvg-id="Moyastikhiya.ru" tvg-logo="https://i.imgur.com/Sl8c9eB.png" group-title="🇷🇺 Russian",Moya stikhiya
+http://stream.mcquack.net/141/index.m3u8
+#EXTINF:-1 tvg-id="Dushevnoe.ru" tvg-logo="https://i.imgur.com/vTRHAvD.png" group-title="❤️Lifestyle",Душевное
+http://stream.mcquack.net/213/index.m3u8
+#EXTINF:-1 tvg-id="Domashniy.ru@SD" tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="❤️Lifestyle",Domashniy
+http://stream.mcquack.net/227/index.m3u8
+#EXTINF:-1 tvg-id="PeretzInternational.ru" tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="🇷🇺 Russian",Peretz International
+http://stream.mcquack.net/121/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="🇷🇺 Russian",THT
+http://stream.mcquack.net/135/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="🇷🇺 Russian",CTC
+http://stream.mcquack.net/138/index.m3u8
+#EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="🇷🇺 Russian",NTV
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
+#EXTINF:-1 tvg-id="NTVSeries.ru" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="🇷🇺 Russian",НТВ Сериал
+https://cdn.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVStyle.ru@SD" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="🇷🇺 Russian",НТВ Стиль
+https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVHit.ru@SD" tvg-logo="https://i.imgur.com/FfKBvz5.png" group-title="🇷🇺 Russian",НТВ Хит
+https://cdn.ntv.ru/th_hit/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRain.nl@SD" tvg-logo="http://epg.one/img/2399.png" group-title="🇷🇺 Russian",Дождь
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Mir24.ru@SD" tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="🇷🇺 Russian",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="Mir.ru@SD" tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="🇷🇺 Russian",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="360.ru@SD" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="🇷🇺 Russian",360° Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="🇷🇺 Russian",Первый канал
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-logo="https://i.imgur.com/Osd2JHL.png" group-title="🇷🇺 Russian",Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="TvoyeTVYumor.ru@SD" tvg-logo="https://smotret.tv/images/tvoe-tv-yumor.webp" group-title="🇷🇺 Russian",Твое ТВ Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 tvg-id="TvoeTV.ru@SD" tvg-logo="https://i.imgur.com/kKAM7dP.png" group-title="🇷🇺 Russian",Твое TV
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru@SD" tvg-logo="https://tv41.ru/static/img/logo.f9b165fafb0a.png" group-title="🇷🇺 Russian",Щёлковское ТВ
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1 tvg-id="Tolk.ru@HD" tvg-logo="https://i.imgur.com/l7JZ79P.png" group-title="🇷🇺 Russian",Толк HD
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://trefoil.tv/uploads/posts/2023-11/riigikogu.webp" group-title="ET Eesti",Riigikogu
+https://le09.euddn.net/52208d193b44f22e0421a496758564947b1023b2cdceac4201ec66dc579def9a0cbb7ea739e741324163d348b61d7ccea3178f51d965d7f5599d491bb25356581fe9a012025a9ba9b5c1b1b96aca905bd279f1c9e6ab19016955d66cdebf6271ee5f29259b7870333915f0b090c0b3ab20f7b114554e95bc80a23c552f572ed977c5eb0be5fce540eb4326f0e49369d2322e61a8c5c4694818b8e4259d219b2b184053cff5f95499176c8dc00acabe86/smil:rk_live_1.smil/chunklist_b1667072_slen.m3u8
+#EXTINF:-1 group-title="🧿Webcam",Kuzminki Moscow
+https://cameras.inetcom.ru/hls/camera12_11.m3u8
+#EXTINF:-1 group-title="🧿Webcam",City Bay Moscow
+https://rtsp2.videocam.online/live/CityBay3.stream/chunklist_w464775598.m3u8
+#EXTINF:-1 group-title="🧿Webcam",Lublinskaya Street Moscow
+https://cameras.inetcom.ru/hls/camera12_7.m3u8
+#EXTINF:-1 group-title="🧿Webcam",Volgograd Avenue
+https://cameras.inetcom.ru/hls/camera12_8.m3u8
+#EXTINF:-1 group-title="🧿Webcam",iCity Moscow
+https://rtsp2.videocam.online/live/iCity.stream/chunklist_w916064566.m3u8
+#EXTINF:-1 group-title="🧿Webcam",Seliger City Moscow
+https://rtsp2.videocam.online/live/ilmensky5.stream/chunklist_w221654322.m3u8
+#EXTINF:-1 group-title="🧿Webcam",Butyrskaya Street Moscow
+https://flow.rxmx.ru/smx19.m3u8
+#EXTINF:-1 group-title="🧿Webcam",Yauza River Mytishchi Moscow oblast
+https://www.intek-m.ru/live/yauza/s.m3u8
+#EXTINF:-1 group-title="🧿Webcam",Winter Palace Saint Petersburg
+https://streamer.camera.rt.ru/public/variant.m3u8?sid=a5c0e3ee-4fb4-4f51-b9ec-027b2dc5c396
+#EXTINF:-1 group-title="🧿Webcam",Viiburi
+https://stream.vyborg.tv/hls/cam/index.m3u8
+#EXTINF:-1 group-title="🧿Webcam",Groznõi Mošee
+https://camera.vt.ru:8888/cam1/main_stream.m3u8
+#EXTINF:-1 group-title="🧿Webcam",Tallinna teletorn
+https://sv.levira.com/teletorn/smil:teletorn.smil/chunklist_w851854201_b2096000_DVR.m3u8
+#EXTINF:-1 group-title="🧿Webcam",Pärnu telemast
+https://sv.levira.com/parnu/smil:parnu.smil/chunklist_w1597401703_b2096000_DVR.m3u8
+#EXTINF:-1 group-title="🧿Webcam",Orissaare telemast
+https://sv.levira.com/orissaare/smil:orissaare.smil/chunklist_w309915150_b2096000_DVR.m3u8
+#EXTINF:-1 group-title="🧿Webcam",Tartu telemast
+https://sv.levira.com/tartu/smil:tartu.smil/chunklist_w2080440899_b2096000_DVR.m3u8
+#EXTINF:-1 group-title="🧿Webcam",Kohtla-Nõmme telemast
+https://sv.levira.com/kohtlanomme/smil:kohtlanomme.smil/chunklist_w1748867227_b2096000_DVR.m3u8
+#EXTINF:-1 group-title="🧿Webcam",Valgjärve telemast
+https://sv.levira.com/valgjarve/smil:valgjarve.smil/chunklist_w1940215600_b2096000_DVR.m3u8
